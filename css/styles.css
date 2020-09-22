@@ -16,3 +16,20 @@ p {
 ul {
   line-height: 40px;  
 }
+
+* {
+    color: green;
+    background-color: wheat;
+    font-size: x-small;
+    font-style: normal;
+    font-family: helvetica;
+    line-height: 20px;
+}
+
+strong {
+    font-style: italic;
+}
+
+em {
+    font-weight: bold;
+}
